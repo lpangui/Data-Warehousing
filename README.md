@@ -2,6 +2,8 @@
 
 Im Rahmen der Vorlesung **Data Warehousing** wurden verschiedene praxisorientierte Fallstudien mit **SAP Datasphere** und **SAP Analytics Cloud (SAC)** bearbeitet. Ziel war es, moderne Data-Warehouse-Konzepte kennenzulernen und diese in einer Cloud-basierten SAP-Umgebung praktisch umzusetzen. Die Übungen deckten den gesamten Analyseprozess ab - von der Datenintegration und Datenmodellierung über Transformationsprozesse bis hin zur Erstellung analytischer Modelle und interaktiver Dashboards. Dabei wurden sowohl theoretische Grundlagen des Data Warehousing als auch deren praktische Umsetzung in SAP-Technologien vertieft.
 
+Die Fallstudien wurden anhand eines durchgängigen Unternehmensszenarios der Beispielunternehmen **Global Bike und Best Run Bikes** durchgeführt. Dabei wurden verschiedene Anforderungen aus den Bereichen Data Warehousing, Datenintegration und Business Intelligence praxisnah umgesetzt. Detaillierte Einblicke in die einzelnen Umsetzungsschritte können den beigefügten Screenshots im Ordner Illustrationen entnommen werden.
+
 ## Case D1: Basic Concepts of SAP Datasphere
 
 Im ersten Case wurde SAP Datasphere als moderne Cloud-Data-Warehouse-Lösung praktisch eingesetzt. Ziel war es, aus bestehenden Verkaufsdaten eines SAP S/4HANA-Systems ein analytisches Datenmodell für Business-Intelligence-Auswertungen aufzubauen. Ausgehend von einer vorhandenen Staging Area mit Verkaufs-, Kunden- und Produktdaten wurde in SAP Datasphere ein multidimensionales Datenmodell nach dem Star-Schema-Ansatz entwickelt. Dabei wurden zunächst Dimensionen für Kunden und Produkte sowie eine Faktentabelle für Verkaufsdaten erstellt und miteinander verknüpft.
